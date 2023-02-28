@@ -1,0 +1,21 @@
+﻿  ソース.cpp
+D:\ナビゲーション説明用\OC用\ソース.cpp(73,6): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(72,16): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(139,6): warning C4101: 'num1': ローカル変数は 1 度も使われていません。
+D:\ナビゲーション説明用\OC用\ソース.cpp(139,12): warning C4101: 'num2': ローカル変数は 1 度も使われていません。
+D:\ナビゲーション説明用\OC用\ソース.cpp(342,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(342,23): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(406,32): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(406,22): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(409,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(409,21): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(410,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(410,21): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(411,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(411,21): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(412,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(412,21): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\ナビゲーション説明用\OC用\ソース.cpp(341,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ナビゲーション説明用\OC用\ソース.cpp(405,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ナビゲーション説明用\OC用\ソース.cpp(258,15): warning C4101: 'm': ローカル変数は 1 度も使われていません。
+  OC用.vcxproj -> D:\ナビゲーション説明用\x64\Debug\OC用.exe
